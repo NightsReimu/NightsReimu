@@ -61,12 +61,11 @@ deterministic & observable** while they do real work in the human world.
 ## 📊 Gensokyo Records
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NightsReimu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=NightsReimu&theme=tokyonight&hide_border=true" alt="streak" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightsReimu&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightsReimu&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img src="https://streak-stats.demolab.com/?user=NightsReimu&theme=tokyonight&hide_border=true" alt="streak" height="170"/>
 </p>
 
 ---
