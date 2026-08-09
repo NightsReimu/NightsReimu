@@ -15,6 +15,7 @@
 <div align="center">
 
 ## ⛩️ AI Engineer · Founder · Indie Hacker
+<!-- profile-readme-index -->
 
 > **"Reality is just another boundary — and I blur it for a living."**
 
