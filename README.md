@@ -19,7 +19,7 @@
 
 > **"Reality is just another boundary — and I blur it for a living."**
 
-I'm **Reed**, an **AI engineer & founder** building autonomous agents and AI systems
+I'm **NightsReimu**, an **AI engineer & founder** building autonomous agents and AI systems
 that cross the line between *prototype* and *production*.
 
 I've gone from **freelancing** to **founding** — shipping AI products with real users,
