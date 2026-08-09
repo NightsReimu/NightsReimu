@@ -72,7 +72,7 @@ deterministic & observable** while they do real work in the human world.
 
 ## 📮 Shrine Mailbox
 
-- 📧 **Email:** reedhecre@gmail.com
+- 📧 **Email:** nightsreimu@gmail.com
 - 🐦 **GitHub:** [@NightsReimu](https://github.com/NightsReimu)
 
 > 合作・创业・AI Agent 讨论 → 随时来博丽神社参拜，茶水免费，符卡另算 ☕
